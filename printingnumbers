@@ -1,0 +1,5 @@
+public class printingnumbers{
+    psvm static void main(String[] args) {
+        system.out.print("1");
+        }
+    }
